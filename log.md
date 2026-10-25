@@ -15,10 +15,10 @@
 - (Already queued earlier on Threads: 10/19 12:23 存款壽命；10/20 21:37 狗等你回家 vs 貓等你倒下)
 - Week 1 reel music: Wacky Sax (audioId 639148740505609)
 
-## Week 3 (2026-10-26 ~ 11-01) — media ready, NOT yet scheduled (Metricool connector needed reconnecting on 10/25 run)
+## Week 3 (2026-10-26 ~ 11-01) — scheduled 10/25 17:38 after Metricool reconnect (4 FB/IG + 7 Threads, all confirmed)
 - 10/27 20:45 POST 床位分配圖：你以為的 vs 實際上的 (week3/post1_bed_map.jpg)
 - 10/29 20:45 POST 門鈴響了！狗狗 vs 貓咪反應實錄 (week3/post2_doorbell.jpg)
-- 10/31 11:45 REEL 萬聖節特輯：不給罐罐就搗蛋 (week3/reel_halloween_tricks.mp4) — IG music: not chosen yet (pick a quirky track ≠ Wacky Sax / Goof Town)
+- 10/31 11:45 REEL 萬聖節特輯：不給罐罐就搗蛋 (week3/reel_halloween_tricks.mp4) — IG music: "Boogie Monster Bash" by Giulio Cercato (audioId 1995976071175221)
 - 11/01 20:45 POST 毛孩氣象台：本週毛孩天氣預報 (week3/post4_forecast.jpg)
-- Threads text jokes (planned): 10/26 21:14 新沙發被貓狗瓜分；10/28 12:22 便當打開狗狗才藝全開；10/30 21:33 貓咬斷耳機線結果我道歉
+- Threads text jokes: 10/26 21:14 新沙發被貓狗瓜分；10/28 12:22 便當打開狗狗才藝全開；10/30 21:33 貓咬斷耳機線結果我道歉
 - Captions & Threads text: week3/captions.md
