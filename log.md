@@ -22,3 +22,12 @@
 - 11/01 20:45 POST 毛孩氣象台：本週毛孩天氣預報 (week3/post4_forecast.jpg)
 - Threads text jokes: 10/26 21:14 新沙發被貓狗瓜分；10/28 12:22 便當打開狗狗才藝全開；10/30 21:33 貓咬斷耳機線結果我道歉
 - Captions & Threads text: week3/captions.md
+
+## Week 4 (2026-11-02 ~ 11-08) — dark-humor tone; scheduled 11/01 14:50 (4 FB/IG + 7 Threads, all confirmed via getScheduledPosts)
+- 11/03 20:45 POST 沉痛告別：本人的沙發 享壽八個月（訃聞）(week4/post1_sofa_obituary.jpg)
+- 11/05 20:45 POST 急徵：鏟屎官（無薪・不得離職 徵才啟事）(week4/post2_job_ad.jpg)
+- 11/07 11:45 REEL 凌晨兩點跑酷大會：一個社畜的崩潰實錄 (week4/reel_2am_zoomies.mp4) — IG music: "Fizzle Dizzle" by Global Genius (audioId 375041336265506)
+- 11/08 20:45 POST 本月薪水流向圖（我自己 1%）(week4/post4_salary_pie.jpg)
+- Threads text jokes: 11/02 21:14 存款看貓有沒有吐；11/04 12:23 監視器拍到狗拆拖鞋；11/06 21:32 社交生活享年28歲
+- Analytics check (IG feed, wk1–2): reach 1–2 per post, too little data to pick a winning format yet.
+- Captions & Threads text: week4/captions.md
