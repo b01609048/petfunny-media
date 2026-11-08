@@ -31,3 +31,12 @@
 - Threads text jokes: 11/02 21:14 存款看貓有沒有吐；11/04 12:23 監視器拍到狗拆拖鞋；11/06 21:32 社交生活享年28歲
 - Analytics check (IG feed, wk1–2): reach 1–2 per post, too little data to pick a winning format yet.
 - Captions & Threads text: week4/captions.md
+
+## Week 5 (2026-11-09 ~ 11-15) — dark-humor tone
+- 11/10 20:45 POST 租賃契約書：房東是貓、房客是我 (week5/post1_cat_lease.jpg)
+- 11/12 20:45 POST 雙11購物車：給自己的全被刪掉 (week5/post2_double11_cart.jpg)
+- 11/14 11:45 REEL 狗咬爛新球鞋：主人的悲傷五階段 (week5/reel_grief_stages.mp4) — IG music: TBD
+- 11/15 20:45 POST 人類飼養指南（作者：貓）(week5/post4_human_manual.jpg)
+- Threads text jokes: 11/09 21:14 壓力大陪寵物紓壓反而更大；11/11 12:23 雙11只買泡麵湊免運；11/13 21:33 13號星期五跟平常一樣倒楣
+- Analytics check (IG feed, wk1–4): reach 1–2 per post, still too little data to pick a winning format.
+- Captions & Threads text: week5/captions.md
