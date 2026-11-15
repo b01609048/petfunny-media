@@ -40,3 +40,12 @@
 - Threads text jokes: 11/09 21:14 壓力大陪寵物紓壓反而更大；11/11 12:23 雙11只買泡麵湊免運；11/13 21:33 13號星期五跟平常一樣倒楣
 - Analytics check (IG feed, wk1–4): reach 1–2 per post, still too little data to pick a winning format.
 - Captions & Threads text: week5/captions.md
+
+## Week 6 (2026-11-16 ~ 11-22) — dark-humor tone; scheduled 11/15 14:52 (4 FB/IG + 7 Threads, all confirmed via getScheduledPosts)
+- 11/17 20:45 POST 我的手機相簿：一萬張，我自己 3 張 (week6/post1_phone_gallery.jpg)
+- 11/19 20:45 POST 狗狗智商測驗成績單 (week6/post2_dog_iq_test.jpg)
+- 11/21 11:45 REEL 牠生病 vs 我生病：同一個家兩種醫療制度 (week6/reel_vet_vs_me.mp4) — IG music: "Speak Your Mind" by Adam Griffith (audioId 266336596003976)
+- 11/22 20:45 POST 年度考績表（考核人：貓）(week6/post4_cat_review.jpg)
+- Threads text jokes: 11/16 21:14 新電毯被貓狗佔領；11/18 12:23 掃地機器人被貓騎、被狗吠；11/20 21:33 下班回家換班
+- Analytics check (IG feed, wk1–5): reach 1–2 per post, still too little data to pick a winning format.
+- Captions & Threads text: week6/captions.md
