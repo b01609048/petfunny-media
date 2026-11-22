@@ -49,3 +49,13 @@
 - Threads text jokes: 11/16 21:14 新電毯被貓狗佔領；11/18 12:23 掃地機器人被貓騎、被狗吠；11/20 21:33 下班回家換班
 - Analytics check (IG feed, wk1–5): reach 1–2 per post, still too little data to pick a winning format.
 - Captions & Threads text: week6/captions.md
+
+## Week 7 (2026-11-23 ~ 11-29) — dark-humor tone
+- 11/24 20:45 POST 本宅評論區：住戶評分 2.1 星（評論者：貓、狗）(week7/post1_home_reviews.jpg)
+- 11/26 20:45 POST 沙發底下考古報告（年底大掃除）(week7/post2_sofa_dig.jpg)
+- 11/28 11:45 REEL 我的手機通知中心：今天一則好消息都沒有 (week7/reel_notifications.mp4)
+- 11/29 20:45 POST 毛孩尾牙抽獎（主人抽到銘謝惠顧）(week7/post4_lucky_draw.jpg)
+- Threads text jokes: 11/23 21:14 狗減肥我瘦錢包；11/25 12:23 罐罐成分表 vs 我的午餐；11/27 21:33 黑色星期五每天都是
+- Analytics check (IG feed, wk1–6): reach 1–2 per post, still too little data to pick a winning format.
+- Captions & Threads text: week7/captions.md
+- Status: NOT yet scheduled (updated below once Metricool confirms)
