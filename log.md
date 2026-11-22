@@ -57,4 +57,4 @@
 - 11/29 20:45 POST 毛孩尾牙抽獎（主人抽到銘謝惠顧）(week7/post4_lucky_draw.jpg)
 - Threads text jokes: 11/23 21:14 狗減肥我瘦錢包；11/25 12:23 罐罐成分表 vs 我的午餐；11/27 21:33 黑色星期五每天都是
 - Analytics check (IG feed, wk1–6): reach 1–2 per post, still too little data to pick a winning format.
-- Captions & Threads text: week7/captions.md
+- Captions & Threads text: week7/captions.md (rewritten 11/22 for sharper punchlines at user request; all 11 posts updated in Metricool, times unchanged)
